@@ -1,0 +1,7 @@
+entity\Customer.class
+entity\CustomerMapper.class
+entity\Address.class
+dao\CustomerDaoImpl.class
+dao\ICustomerDao.class
+dao\MainApp.class
+entity\AddressMapper.class
